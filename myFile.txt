@@ -1,4 +1,4 @@
-hi thomas i wrote this on thursday!!
-hi willis i wrote another line!   Thomas is editing line 2
+hi thomas i wrote this on thursday!!    Mr. Willis is editing line 1
+hi willis i wrote another line!     Thomas is editing line 2
 This as a third line!
 Mr. Willis added line 4 
